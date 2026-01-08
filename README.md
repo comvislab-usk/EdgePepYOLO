@@ -16,14 +16,14 @@ Faturrahman Syauqi (Universitas Syiah Kuala), [Kahlil Muchtar (Universitas Syiah
 </div><br>
 
 <p align="center">
-  <img style="width: 90%" src="media/fig 1.jpg">
+  <img style="width: 90%" src="Media/Fig 1.jpg">
 </p>
 
 <small>_Fig. 1. The overall system pipeline, including dataset preprocessing, Image preprocessing, Model training, Model evaluation, Edge deployment, and Web-Based visualization._</small>
 <br><br>
 
 <p align="center">
-  <img style="width: 90%" src="media/Fig 2.jpg">
+  <img style="width: 90%" src="Media/Fig 2.jpg">
 </p>
 
 <small>_Fig. 2. Presents pepper images before and after the preprocessing stage._</small>
@@ -178,14 +178,14 @@ print("\nTraining completed!\n")
 <br>
 
 <p align="center">
-  <img style="width: 80%" src="media/Fig 3.png">
+  <img style="width: 80%" src="Media/Fig 3.png">
 </p>
 
 <small>_Fig. 4. Bar chart comparison of classification metrics(accuracy, precision, recall, specificity, F1-score, mAP50-95) for YOLO with and without CLAHE._</small>
 <br><br>
 
 <p align="center">
-  <img style="width: 80%" src="media/Fig 4.png">
+  <img style="width: 80%" src="Media/Fig 4.png">
 </p>
 
 <small>_Fig. 5. IoU Score Results for Normal and Defective Classes._</small>
@@ -194,10 +194,10 @@ print("\nTraining completed!\n")
 
 ## 🎨 Qualitative Results
 <p align="center">
-  <img style="width: 50%" src="media/Fig 5.jpg">
+  <img style="width: 50%" src="Media/Fig 5.jpg">
 </p>
 <p align="center">
-  <img style="width: 50%" src="media/Fig 6.jpg">
+  <img style="width: 50%" src="Media/Fig 6.jpg">
 </p>
 
 <small>_Fig. 6. Streamlit interface deployed on NVIDIA Jetson Orin Nano. The interface allows users to upload images and view real-time detection results, including prediction probabilities and inference time._</small>
