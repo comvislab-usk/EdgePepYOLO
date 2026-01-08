@@ -32,7 +32,7 @@ Faturrahman Syauqi (Universitas Syiah Kuala), [Kahlil Muchtar (Universitas Syiah
 
 ## 📊 Data
 
-Please download the ISIC and USK-Normal Skin datasets, available as original images and CLAHE-enhanced images. Both datasets include predefined training, validation, and test splits.
+Please download the dataset used in this study from the Google Drive links below. The dataset is provided in both original and CLAHE-enhanced versions, along with predefined training, validation, and testing splits.
 
 - **Original Dataset:**  
   [🔗 Google Drive Link](https://drive.google.com/drive/folders/1k0nsna_d6lRUv_Ght7VFkYTs4LheC3dq?usp=sharing)
@@ -128,6 +128,23 @@ results = model.train(
 print("\nTraining completed!\n")
 
 ```
+
+### 5️⃣ Run Streamlit Application
+The Streamlit application has been provided in this repository. Follow the steps below to run the real-time defect detection interface.
+
+- **Install Dependencies**
+```python
+pip install streamlit ultralytics torch torchvision opencv-python numpy
+```
+
+- **Run Streamlit App**
+```python
+stramlit run Streamlit.py
+```
+<div style="margin-left: 20px;">
+Make sure the trained YOLOv8 model file is located in the correct directory.
+</div>
+
 ---
 ## 📈 Results
 
