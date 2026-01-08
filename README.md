@@ -16,7 +16,7 @@ Faturrahman Syauqi (Universitas Syiah Kuala), [Kahlil Muchtar (Universitas Syiah
 </div><br>
 
 <p align="center">
-  <img style="width: 80%" src="Media/Fig 1.jpg">
+  <img style="width: 70%" src="Media/Fig 1.jpg">
 </p>
 
 <small>_Fig. 1. The overall system pipeline, including dataset preprocessing, Image preprocessing, Model training, Model evaluation, Edge deployment, and Web-Based visualization._</small>
